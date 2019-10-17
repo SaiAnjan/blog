@@ -32,7 +32,7 @@ Maintaining a single high standard of quality in all products and services to ma
 Continually reinvesting the majority of our earnings in operational excellence. These principles have been powerful in driving the long-term success and character of the Kohler organization. Yet, a company cannot be explained in terms of mission or principles alone. Human energy is required to give life and direction to a mission.
 
 
-Leaders: Taking the Long-Term Perspective
+<b>Leaders:</b> Taking the Long-Term Perspective
 What we have accomplished can be credited, in part, to company leadership that has had the leeway to think long-term and for whom relationships matter. Our leaders have been strong, self-reliant, never wanting for original ideas, and possessing the courage to expand, diversify, and take necessary risks to achieve our objectives. That courage is evident in such unconventional decisions as:
 
 Moving the Kohler factory to the Wisconsin countryside in 1899 to provide an improved quality of life for employees
