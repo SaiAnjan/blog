@@ -6,7 +6,7 @@ author: "Sai Anjan"
 meta: "PPT"
 ---
 
-Hi everyone,👋<br>
+Hi everyone 👋,<br>
 The Placement team is glad to inform you all of the first PPT of this session for IDC. The company Kohler India is coming to IDC for conducting a Pre-Placement Talk, followed by interaction with the students for queries and clarifications.
 
 ## PPT Details
