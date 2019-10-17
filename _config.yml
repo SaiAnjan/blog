@@ -2,7 +2,7 @@ title: Anjan's Blog
 author: Sai Anjan
 email: saianjan.margani@iitb.ac.in
 description: > # this means to ignore newlines until "show_excerpts:"
-  Namaste! I'm Anjan and I have some amazing works in the field of HCI. Check them out [here](https://www.saianjan.com).
+  Namaste! I'm Anjan and I'm currently working on Interaction techniques. Check out my works [here](https://www.saianjan.com).
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -14,13 +14,13 @@ minima:
   # generate social links in footer
   social_links:
     twitter: dhaathre
-    github:  gyanl
-    rss: rss
-    # dribbble: jekyll
+    github:  SaiAnjan
+    #rss: rss
+    dribbble: saianjan
     # facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
-    linkedin: gyanlakhwani
+    # linkedin: gyanlakhwani
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
