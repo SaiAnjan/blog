@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kohler India Pre-placement Talk"
-categories: IDC placement
+categories: IDC placements
 author: "Sai Anjan"
 meta: "PPT"
 ---
