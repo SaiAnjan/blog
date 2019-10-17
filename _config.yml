@@ -2,7 +2,7 @@ title: Anjan's Blog
 author: Sai Anjan
 email: saianjan.margani@iitb.ac.in
 description: > # this means to ignore newlines until "show_excerpts:"
-  Namaste! I'm Anjan and I have some amazing works in the field of HCI. CHeck them out at: www.saianjan.com
+  Namaste! I'm Anjan and I have some amazing works in the field of HCI. Check them out [here](https://www.saianjan.com).
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
