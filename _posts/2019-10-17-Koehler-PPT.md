@@ -20,7 +20,7 @@ Kohler India          | November 18, 2019 | 6PM- 7PM         | IDC Auditorium
 ## Also,
 Students may note that, here on the PPTs conducted exclusively for IDC students are mandatory for all IDCians irrespective of their specialization. For further details on the Penalty points and other placement rules a mail would be sent shortly and also refer to the Placement policy.
 
-### About Kohler India,
+### About Kohler India(Copied from website),
 Companies that prosper over time show a clear sense of purpose and core values. They translate them into action and ensure that they are reflected consistently throughout the organization in everything it does.
 
 At Kohler Co., adherence to our corporate mission ..."to improve the level of gracious living in the lives of all who are touched by our products and services"...identifies a clear sense of purpose for the more than 31,000 Kohler associates around the world.
@@ -38,4 +38,12 @@ What we have accomplished can be credited, in part, to company leadership that h
 Moving the Kohler factory to the Wisconsin countryside in 1899 to provide an improved quality of life for employees
 Branching out into the generator business in the 1920s
 Rolling out a host of products in bold new colors and shapes, beginning in the 1960s, that forever changed the face of the American bath.
-Developing a second 50-year plan for the controlled growth of the Village of Kohler in the 1970s.
+Developing a second 50-year plan for the controlled growth of the Village of Kohler in the 1970s.<br><br>
+Read more about Kohler [here](https://www.kohler.co.in/about-us).
+### Some questions to ask in the PPT
+ - How is Kohler different from other companies in industry(To understand their mission & vision)?
+ - What is the expected mentorship as a fresher?
+ - How is design at Kohler?
+ - Why should I join Kohler?
+ - What is the process of hiring?
+ - What do you expect from us during the process?
