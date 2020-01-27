@@ -6,7 +6,7 @@ author: "Sai Anjan "
 meta: "P3"
 ---
 
-# Report - Stage 0
+## Report - Stage 0
 
 M.D. Sai Anjan (186330013)
 
