@@ -66,11 +66,18 @@ Fig: LED Arrival/Departure Boards at the concourse
 
 ![TV Arrival/Departure](/assets/Images/Stage0/TV.png)
 Fig: Arrival/Departure information in TV Displays on the platforms
-> TV display on the platform with Arrival/Departure
 
-> Train fare details board
+![TV Coach data](/assets/Images/Stage0/TV.png)
+Fig: Coach position of the train which is specific to each station
 
-> Where is my Train? application screenshot
+![Self Ticketing Zone](/assets/Images/Stage0/Self.png)
+Fig: Self ticketing zone where passengers can get their own tickets
+
+![ATVM](/assets/Images/Stage0/ATVM.png)
+Fig: Ticket vending machines which are kept inside the self ticketing zone
+
+![Not a Kiosk](/assets/Images/Stage0/Not_TV.png)
+Fig: This is just an Advertisement space in the self ticketing zone. Not an interactive installation.
 
 Where is my train application is used for live train status information. The application doesn't use internet rather it uses mobile network and GPS. When a certain user of the application is inside the train and chooses the train from the search menu it'll start considering the location of the mobile phone as the current location of the train and keeps updating it. This can also crosscheck with multiple users travelling in the same train. Passengers can also edit the platform of the train in the interface. Along with live train status this application also allows for PNR status check and certain time table. All of these facilitate information to the passenger based on an input by the passenger.
 
