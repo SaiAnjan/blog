@@ -47,7 +47,7 @@ An enquiry system which is on platform which gets live data from NTES and contro
 
 I visited Vijayawada Junction's Enquiry counter and sat inside the counter to interact with the staff and get to know how do they work. I came to know that there are 30 topics of the enquiry from which any question can be asked and can facilitate all the questions about Railways:
 
-![Enquiry](/assets/Images/IMG_4402.jpg)
+<img src="/assets/Images/IMG_4402.jpg" alt="Italian Trulli">
 
 And the staff in the enquiry counter contains this interface in the desktop near them:
 ![Staff in the Enquiry Counter](/assets/Images/Staff.png)
