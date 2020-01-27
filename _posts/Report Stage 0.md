@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "ఇది నా మొదటి తెలుగు వెబ్ పేజి "
-categories: Telugu
-author: "సాయి అంజన్ "
-meta: "PPT"
+title: "Report Stage 0 "
+categories: Academic
+author: "Sai Anjan "
+meta: "P3"
 ---
 
 # Report - Stage 0
