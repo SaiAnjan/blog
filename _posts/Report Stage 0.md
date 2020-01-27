@@ -1,3 +1,11 @@
+---
+layout: post
+title: "ఇది నా మొదటి తెలుగు వెబ్ పేజి "
+categories: Telugu
+author: "సాయి అంజన్ "
+meta: "PPT"
+---
+
 # Report - Stage 0
 
 M.D. Sai Anjan (186330013)
@@ -57,7 +65,7 @@ Where is my train application is used for live train status information. The app
 
 > How Internet can also allow to find information
 
-The passenger asks a question and the enquiry staff understands the query and decodes it to the category it fits into. If the question is generic like "Which platform is my train on?" then the staff looks at the TV which shows the Arrivals/Departures list and answers the platform that is the train currently on. The same TV Screen is setup on all the platforms and the concourse area in each station. These are currently present in stations from A1 to D Category. If the platform is not decided by this public address system then the staff tells them an possible platform the train could arrive and asks them to wait in the concourse and keep an eye on the TV and the LED Boards. Sometimes the passenger might enquire about a ticket to a particular passenger station and then the staff will suggest an ticket which will be the comfortable choice for the passenger like an Antyodaya train ticket. Antyodaya train is an fully unreserved coach passenger train which takes the same time as a passenger or intercity trains and will have an fare of 15% more than the regular unreserved ticket. Most of these processes includes the select a topic preceded by an option number. Then the staff inputs the passenger details like the destination and date and gets the ticket details for the trains going to that particular destination. 
+The passenger asks a question and the enquiry staff understands the query and decodes it to the category it fits into. If the question is generic like "Which platform is my train on?" then the staff looks at the TV which shows the Arrivals/Departures list and answers the platform that is the train currently on. The same TV Screen is setup on all the platforms and the concourse area in each station. These are currently present in stations from A1 to D Category. If the platform is not decided by this public address system then the staff tells them an possible platform the train could arrive and asks them to wait in the concourse and keep an eye on the TV and the LED Boards. Sometimes the passenger might enquire about a ticket to a particular passenger station and then the staff will suggest an ticket which will be the comfortable choice for the passenger like an Antyodaya train ticket. Antyodaya train is an fully unreserved coach passenger train which takes the same time as a passenger or intercity trains and will have an fare of 15% more than the regular unreserved ticket. Most of these processes includes the select a topic preceded by an option number. Then the staff inputs the passenger details like the destination and date and gets the ticket details for the trains going to that particular destination.
 
 ## Design Approach
 
@@ -71,7 +79,7 @@ Cost is not a constraint since the Indian railways have already deployed touch s
 
 Or a different direction of the project will be to find a frugal solution like AJ Sir's Streetwise Dharavi project.
 
-Safety of the installation or the outcome. Since ATVMs and self ticketing zones have been deployed in most of the stations enquiring the railways about how they are offering the safety to these devices would be a good point to start. 
+Safety of the installation or the outcome. Since ATVMs and self ticketing zones have been deployed in most of the stations enquiring the railways about how they are offering the safety to these devices would be a good point to start.
 
 ## Possible Outcomes
 
