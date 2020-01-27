@@ -49,10 +49,23 @@ I visited Vijayawada Junction's Enquiry counter and sat inside the counter to in
 
 ![Enquiry](/assets/Images/Stage0/IMG_4402.jpg)
 
+And the staff in the enquiry counter contains this interface in the desktop near them:
+![Staff in the Enquiry Counter](/assets/Images/Stage0/Staff.png)
+
+When the questions are about Train arrival/Departure and the platform number then the staff uses the arrival/departure TV display board in the room:
+
+![Arrival/Departure TV Display](/assets/Images/Stage0/Enq_TV.png)
+
 The different forms of information sources on the platform or near the concourses at most of the stations in the country are:
 
-> Arrival/Departure LED Boards image
+![Enquiry Counter CSMT](/assets/Images/Stage0/Enquiry.png)
+Fig: Enquiry counter in CSMT
 
+![LED Arrival/Departure Boards](/assets/Images/Stage0/LED.png)
+Fig: LED Arrival/Departure Boards at the concourse
+
+![LED Arrival/Departure Boards](/assets/Images/Stage0/LED.png)
+Fig: LED Arrival/Departure Boards at the concourse
 > TV display on the platform with Arrival/Departure
 
 > Train fare details board
