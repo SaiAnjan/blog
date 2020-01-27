@@ -47,7 +47,7 @@ An enquiry system which is on platform which gets live data from NTES and contro
 
 I visited Vijayawada Junction's Enquiry counter and sat inside the counter to interact with the staff and get to know how do they work. I came to know that there are 30 topics of the enquiry from which any question can be asked and can facilitate all the questions about Railways:
 
-![Report%20Stage%200/IMG_4402.jpg](_posts/Stage0/IMG_4402.jpg)
+![ENQUIRY.jpg](_posts/Stage0/IMG_4402.jpg)
 
 The different forms of information sources on the platform or near the concourses at most of the stations in the country are:
 
