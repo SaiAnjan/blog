@@ -64,8 +64,8 @@ Fig: Enquiry counter in CSMT
 ![LED Arrival/Departure Boards](/assets/Images/Stage0/LED.png)
 Fig: LED Arrival/Departure Boards at the concourse
 
-![LED Arrival/Departure Boards](/assets/Images/Stage0/LED.png)
-Fig: LED Arrival/Departure Boards at the concourse
+![TV Arrival/Departure](/assets/Images/Stage0/TV.png)
+Fig: Arrival/Departure information in TV Displays on the platforms
 > TV display on the platform with Arrival/Departure
 
 > Train fare details board
