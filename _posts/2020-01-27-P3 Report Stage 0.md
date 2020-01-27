@@ -47,42 +47,42 @@ An enquiry system which is on platform which gets live data from NTES and contro
 
 I visited Vijayawada Junction's Enquiry counter and sat inside the counter to interact with the staff and get to know how do they work. I came to know that there are 30 topics of the enquiry from which any question can be asked and can facilitate all the questions about Railways:
 
-![Enquiry](/assets/Images/Stage0/IMG_4402.jpg)
+![Enquiry](/assets/Images/IMG_4402.jpg)
 
 And the staff in the enquiry counter contains this interface in the desktop near them:
-![Staff in the Enquiry Counter](/assets/Images/Stage0/Staff.png)
+![Staff in the Enquiry Counter](/assets/Images/Staff.png)
 
 When the questions are about Train arrival/Departure and the platform number then the staff uses the arrival/departure TV display board in the room:
 
-![Arrival/Departure TV Display](/assets/Images/Stage0/Enq_TV.png)
+![Arrival/Departure TV Display](/assets/Images/Enq_TV.png)
 
 The different forms of information sources on the platform or near the concourses at most of the stations in the country are:
 
-![Enquiry Counter CSMT](/assets/Images/Stage0/Enquiry.png)
+![Enquiry Counter CSMT](/assets/Images/Enquiry.png)
 Fig: Enquiry counter in CSMT
 
-![LED Arrival/Departure Boards](/assets/Images/Stage0/LED.png)
+![LED Arrival/Departure Boards](/assets/Images/LED.png)
 Fig: LED Arrival/Departure Boards at the concourse
 
-![TV Arrival/Departure](/assets/Images/Stage0/TV.png)
+![TV Arrival/Departure](/assets/Images/TV.png)
 Fig: Arrival/Departure information in TV Displays on the platforms
 
-![TV Coach data](/assets/Images/Stage0/Coach.png)
+![TV Coach data](/assets/Images/Coach.png)
 Fig: Coach position of the train which is specific to each station
 
-![Self Ticketing Zone](/assets/Images/Stage0/Self.png)
+![Self Ticketing Zone](/assets/Images/Self.png)
 Fig: Self ticketing zone where passengers can get their own tickets
 
-![ATVM](/assets/Images/Stage0/ATVM.png)
+![ATVM](/assets/Images/ATVM.png)
 Fig: Ticket vending machines which are kept inside the self ticketing zone
 
-![Not a Kiosk](/assets/Images/Stage0/Not_TV.png)
+![Not a Kiosk](/assets/Images/Not_TV.png)
 Fig: This is just an Advertisement space in the self ticketing zone. Not an interactive installation.
 
-![Fare details board](/assets/Images/Stage0/Fare.png)
+![Fare details board](/assets/Images/Fare.png)
 Fig: Fare details board in the concourse area
 
-![Map](/assets/Images/Stage0/Map.png)
+![Map](/assets/Images/Map.png)
 Fig: navigational map of amenities on the station
 
 ## Exisiting Mobile interfaces:
@@ -90,7 +90,7 @@ Fig: navigational map of amenities on the station
 Where is my train application is used for live train status information. The application doesn't use internet rather it uses mobile network and GPS. When a certain user of the application is inside the train and chooses the train from the search menu it'll start considering the location of the mobile phone as the current location of the train and keeps updating it. This can also crosscheck with multiple users travelling in the same train. Passengers can also edit the platform of the train in the interface. Along with live train status this application also allows for PNR status check and certain time table. All of these facilitate information to the passenger based on an input by the passenger.
 
 ## Enquiry Process:
-![Where is my Train? Application Screenshot](/assets/Images/Stage0/Where.png)
+![Where is my Train? Application Screenshot](/assets/Images/Where.png)
 Fig: Screenshot of Where is my Train application
 
 The passenger asks a question and the enquiry staff understands the query and decodes it to the category it fits into. If the question is generic like "Which platform is my train on?" then the staff looks at the TV which shows the Arrivals/Departures list and answers the platform that is the train currently on. The same TV Screen is setup on all the platforms and the concourse area in each station. These are currently present in stations from A1 to D Category. If the platform is not decided by this public address system then the staff tells them an possible platform the train could arrive and asks them to wait in the concourse and keep an eye on the TV and the LED Boards. Sometimes the passenger might enquire about a ticket to a particular passenger station and then the staff will suggest an ticket which will be the comfortable choice for the passenger like an Antyodaya train ticket. Antyodaya train is an fully unreserved coach passenger train which takes the same time as a passenger or intercity trains and will have an fare of 15% more than the regular unreserved ticket. Most of these processes includes the select a topic preceded by an option number. Then the staff inputs the passenger details like the destination and date and gets the ticket details for the trains going to that particular destination.
