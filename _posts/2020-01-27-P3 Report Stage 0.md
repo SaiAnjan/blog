@@ -50,7 +50,7 @@ I visited Vijayawada Junction's Enquiry counter and sat inside the counter to in
 ![Enquiry](/assets/Images/IMG_4402.jpg)
 
 And the staff in the enquiry counter contains this interface in the desktop near them:
-![Staff in the Enquiry Counter](/img/Staff.png)
+![Staff in the Enquiry Counter](/blog/img/Staff.png)
 
 When the questions are about Train arrival/Departure and the platform number then the staff uses the arrival/departure TV display board in the room:
 
