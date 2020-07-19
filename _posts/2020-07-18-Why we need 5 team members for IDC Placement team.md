@@ -31,8 +31,8 @@ Master students have already done graduation in a different discipline are looki
 Next, When it comes to IDC most of the companies are open for UI/UX roles. While this is good career path for streams like Interaction design, Product design and Communication design students need a different set of comapnies and studios for placements. So we need coordinators from M.Des who belong to different disciplines(Interaction, Product, Communiaction). Streams like Animation, PD and MVD where companies are very difficult to bring in, we will be needing the coordinators from that stream to help out. And we need people focused on that as well which means they have connects from these relavant industries and can pitch to companies for inviting.
 > We ned 3 M.Des representatives from Interaction, Product, Communication and MVD.
 
-B.Des scenario, Sem Ex, different career paths, student interests
-> We need one coordinator to represent B.Des because of the different deadlines and timetable.
+Companies look for students who are specialised in a particular discipline like Interaction, Communication etc., they are also looking for students who have experience in mixed set of skills(Graphic deisgn, UI/UX, Type design, Data Vis etc.,). B.Des students curriculum allows them to gain skills from these different sets thus opening a different set of careers from them. So we need a coordinatior to represent the B.Des students who know the scnario of what B.Des can achieve and it will give an advantage. Morever, efficient communication and coordination during placements to B.Des can be done by a student from B.Des. This includes contacting the students, keeping their preferences and needs
+> We need one coordinator to represent B.Des who has a point of view for bachelor students career interests.
 
 ### Few bonus responsibilities
 
