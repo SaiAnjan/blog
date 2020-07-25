@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IITB Placement portal design hackathon"
+title: "IITB Portal design hackathon"
 categories: Design
 author: "Sai Anjan"
 meta: "Article"
@@ -8,7 +8,7 @@ meta: "Article"
 
 
 
-## Design hackathon
+## Brief of the work
 
 So, if you already know me I'v currently graduated but no job. But in this scenario I've got some pending tasks from Uni to complete. Right now the biggest in this pipeline is the re-vamp of placement portal and honestly I actually regret for taking up this work. I was told that I'll be paid but let's wait for pratik to keep his word. Anyways the goal is to bring the portal design to a step where anyone can pick up this workand complete it, preferably juniors.
 
@@ -34,3 +34,8 @@ Then I started with the filters for 'List by':
 3. Business
 
 I really am not able to think about any other filters. I'll comeback to this later.
+
+### But after clicking a job card it basically opens the job page:
+
+![View Job](/blog/img/dh/2.png)
+
