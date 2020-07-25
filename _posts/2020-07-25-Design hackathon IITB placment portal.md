@@ -16,4 +16,4 @@ To start with I'll give you an idea of the current status of the design work. Th
 
 ## Student
 
-![My helpful screenshot](/assets/Images/dh/1.png)
+![My helpful screenshot](/assets/img/dh/1.png)
