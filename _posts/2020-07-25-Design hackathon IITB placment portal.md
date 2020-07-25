@@ -16,4 +16,4 @@ To start with I'll give you an idea of the current status of the design work. Th
 
 ## Student
 
-![My helpful screenshot](/assets/Images/Design_Hackathon_25/Jul/2020/Screenshot_2020-07-25_at_11.23.20_PM.png)
+![My helpful screenshot](/assets/Images/dh/1.png)
