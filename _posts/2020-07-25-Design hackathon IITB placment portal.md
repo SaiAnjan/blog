@@ -33,7 +33,12 @@ Then I started with the filters for 'List by':
 2. Design
 3. Business
 
-I really am not able to think about any other filters. I'll comeback to this later.
+So now what are the filters the students need while finding jobs. Let's see...
+
+I'm looking for jobs obviously in the field I'm stdying in i.e., UG Department, Masters specialisation, Research specialisation. I'm not sure how many Ph.D studetns use portal much but looking at UG and PG folks I should look at kind of role keywords for each discipline:
+
+1. Design - Design
+2. Computer science - IT/Software
 
 ### But after clicking a job card it basically opens the job page:
 
