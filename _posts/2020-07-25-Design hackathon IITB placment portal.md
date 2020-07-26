@@ -40,7 +40,13 @@ I'm looking for jobs obviously in the field I'm stdying in i.e., UG Department, 
 1. Design - Design
 2. Computer science - IT/Software
 
+## Btw, these are the filters that LinekdIn uses:
+
+![LinkedIn filters](/blog/img/dh/2.png)
+
+Seems like LinkedIn uses A.I to show the jobs which is not what we are doing in the portal. LinkedIn is about finding jobs worldwide with any keyword search. In our portal what we are aiming is showing the jobs with simple filters where students from the uni can find jobs easily. Students look for jobs from their own department to continue career path i.e., core jobs. These core jobs should match with their department that means while craeting the job we need to ask the company about the department that the job is relavant to and the type of job(Design, IT/Software etc.,)
+
 ### But after clicking a job card it basically opens the job page:
 
-![View Job](/blog/img/dh/2.png)
+
 
